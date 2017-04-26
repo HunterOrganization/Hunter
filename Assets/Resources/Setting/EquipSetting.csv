@@ -1,0 +1,4 @@
+Id,EType,Attack,Defense,EquipDesc,UnequipDesc
+Lieqiang1,Weapon,50,50,从背后抽出了猎枪，紧握在手中,把手中的猎枪放入包裹中
+Lieqiang2,Weapon,100,50,从背后抽出了优质猎枪，紧握在手中,把手中的优质猎枪放入包裹中
+Qiangtao1,Armor,0,20,从背包中拿出了一个枪套，佩戴在了腰上,把腰上的枪套放入包裹中
